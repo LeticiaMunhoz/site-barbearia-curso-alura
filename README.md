@@ -1,1 +1,2 @@
-# site-barbearia-curso-alura
+# Site Barbearia Alura
+## Este site foi criado durando o curso de CSS3 e HTML5 da Alura
